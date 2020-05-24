@@ -1,0 +1,11 @@
+{
+    "indent_size": 2,
+    "indent_char": " ",
+    "css": {
+      "indent_size": 2
+    },
+    "beautify.language": {
+        "html": ["htm", "html", "django-html"]
+    }
+}
+  
